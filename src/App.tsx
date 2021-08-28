@@ -18,3 +18,8 @@ function App() {
 }
 
 export default App;
+
+
+// code review 
+// - global style로 초기 style 설정
+// - TodoProvier로 context api 의 데이터값을 안에 컨테이너에 넘김
